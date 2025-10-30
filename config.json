@@ -1,0 +1,205 @@
+{
+    "en-CA": {
+        "styles": {
+            "bg": "#161A21",
+            "lang-select-color": "#222829",
+            "bg-light": "#202128",
+            "welcome-bonus-bg": "#ffffff",
+            "top-games-hover-fg": "#000000",
+            "main-bg": "#F1F1F6",
+            "text": "#222829",
+            "text-black": "#ffffff",
+            "table-head": "#161A21",
+            "text-head": "#ffffff",
+            "hero-title-text": "#222829",
+            "welcome-bonus-text": "#9B1B20",
+            "yellow": "#1c4d9c",
+            "yellow-button": "#9B1B20",
+            "button-text": "#ffffff",
+            "main-button-text": "#ffffff",
+            "border-color": "#efefdc",
+            "casino-cards": "#ffffff",
+            "bonus-border-head": "#efefdc",
+            "bonus-border": "#000033",
+            "pay-back": "#deeadf",
+            "providers-back": "#414142",
+            "faq-label": "#ffffff",
+            "bg-footer": "#161A21",
+            "copyright": "#e7e7d5",
+            "starColor": "#1c4d9c",
+            "baseFont": {
+                "value": "Roboto",
+                "isCustom": false
+            },
+            "primaryFont": {
+                "value": "https:\/\/backend.builder.adkey.org:443\/api\/fonts\/download\/7",
+                "isCustom": true
+            },
+            "welcomeBonusFont": {
+                "value": "Roboto",
+                "isCustom": false
+            }
+        },
+        "seo": {
+            "name": "Caesars Windsor",
+            "title": "Caesars Windsor | Casino, Hotel, Dining & Shows in Windsor, Ontario",
+            "description": "Discover Caesars Windsor \u2014 a luxury resort offering world-class casino gaming, hotel stays, dining, bars, live entertainment, and exclusive bonuses in Ontario, Canada.\n",
+            "canonical": "caesarswindsor-online.com",
+            "ogImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/274",
+            "ogImageWidth": 1200,
+            "ogImageHeight": 630,
+            "twitterSite": "",
+            "favicon": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/275",
+            "keywords": "casino, online casino, gambling, slots, table games"
+        },
+        "icons": {
+            "icon192": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/273"
+        },
+        "header": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/271",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "logoAlt": "Caesars Windsor Logo"
+        },
+        "nav": {
+            "signUp": "Sign Up",
+            "playNow": "Play Now"
+        },
+        "hero": {
+            "title": "Caesars Windsor \u2014 Premium Casino, Hotel & Entertainment in Ontario",
+            "textDesktop": "Exclusive welcome offer of",
+            "textMobile": "Exclusive welcome bonus of",
+            "playGame": "Play game",
+            "claimBonus": "Claim Bonus",
+            "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/269",
+            "imageSizeModifier": 0,
+            "imageYModifier": -3,
+            "imageXModifier": 0,
+            "mobileImage": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/270",
+            "mobileImageSizeModifier": 0,
+            "mobileImageYModifier": 0,
+            "mobileImageXModifier": 0
+        },
+        "topCasino": {
+            "topCasinoButtonText": "Claim Bonus",
+            "title": "Top Casino",
+            "allCasino": "All Casino",
+            "welcomeBonusText": "Welcome bonus"
+        },
+        "bonusDetails": {
+            "title": "Bonus Details",
+            "getBonusButtonText": "Get Bonus",
+            "maximumAmountText": "Maximum amount",
+            "wagerText": "Wager",
+            "bonusCodeText": "Bonus Code",
+            "casino": "Casino",
+            "bonuses": "Bonuses",
+            "rate": "Rate",
+            "freeSpins": "Free Spins",
+            "moreInfo": "More Info",
+            "get": "Get",
+            "refresh": "Refresh"
+        },
+        "advantages": {
+            "title": "Advantages",
+            "advantagesBeforeText": "",
+            "items": [
+                "Luxury hotel with riverfront views",
+                "World-class casino and poker room",
+                "Live shows and concerts at Colosseum",
+                "Variety of restaurants and bars",
+                "Caesars Rewards loyalty program",
+                "Tax-free winnings for U.S. guests",
+                "Spa, pool, and fitness center"
+            ],
+            "advantagesAfterText": "",
+            "knowMore": "Know more",
+            "appTitle": "Caesars Windsor App",
+            "mobile": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/276",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "mobileAlt": "Caesars Windsor App",
+            "mobileGooglePlayImageTitle": "Caesars Windsor App",
+            "mobileIosImageTitle": "Caesars Windsor App"
+        },
+        "games": {
+            "playNowText": "Play now",
+            "title": "Popular Games",
+            "allGames": "All Games"
+        },
+        "about": {
+            "history": {
+                "title": "About Caesars Windsor",
+                "description1": "",
+                "items": [
+                    "Up to C$6.3M in prizes",
+                    "Bonus up to 3,000 CAD + 300 spins",
+                    "Up to 75,000 bonus credits daily"
+                ],
+                "description2": "Caesars Windsor is a modern hotel and casino located on the riverfront in Windsor, Ontario. The resort features comfortable rooms, diverse dining options, and vibrant entertainment. The casino offers slot machines, table games, and a poker room. Guests enjoy live shows, spa treatments, and nightlife. A loyalty program rewards active players with bonuses and perks. ",
+                "image": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/277",
+                "imageSizeModifier": 0,
+                "imageYModifier": 0,
+                "imageXModifier": 0,
+                "imageAlt": "History",
+                "description3": "Caesars Windsor is especially popular with U.S. visitors thanks to its convenient location and appealing benefits."
+            }
+        },
+        "custom": {
+            "customHtml": {
+                "title": "Caesars Windsor: a premier riverfront casino resort ",
+                "description": "<p> Caesars Windsor stands as a flagship casino resort in Windsor, Ontario, set right on the scenic riverfront across from Detroit. Travelers come for the blend of an elegant hotel, a high\u2011energy casino floor, and a robust calendar of entertainment that turns a simple getaway into a standout experience. Contemporary design and the signature Caesars aesthetic set the stage, while attentive, premium service anchors the stay from check\u2011in to check\u2011out.<\/p>\n<br>\n<p> The accommodation mix is designed for every kind of trip, from business overnights to long weekends and celebratory escapes with friends. Spacious rooms and suites deliver restful beds, thoughtful lighting, and sweeping river or skyline views, so the room itself becomes part of the destination. Proximity to the casino, entertainment venues, and wellness areas adds everyday convenience, and guests wind down in the indoor pool, sauna, and a well\u2011equipped fitness center between gaming sessions and night\u2011time plans.<\/p>\n<br>\n<p> The casino floor is the resort\u2019s pulse and one of the region\u2019s most recognizable gaming destinations. Expect a deep lineup of slot machines, classic table games, and a dedicated poker environment balanced with comfortable lounges and clear wayfinding. A focused area for sports wagering pairs high\u2011definition screens with easy bet placement, turning game day into a social occasion. The ambiance throughout is unmistakably Caesars, combining refined finishes with player\u2011first ergonomics.<\/p>\n<br>\n<p> Dining at Caesars Windsor covers the spectrum from refined to relaxed. Signature venues plate premium steaks, Mediterranean and Italian favorites, and polished desserts, while casual concepts make it easy to grab a bite between a show and a session at the tables. Bars are strategically placed across the resort, ranging from cocktail\u2011forward lounges to sports-centric spaces with live broadcasts, and nightlife zones keep energy high with resident DJs and live sets. Whether you are toasting a win or easing into the evening, there is always a spot that matches the mood.<\/p>\n<br>\n<p> Headlining entertainment takes the spotlight at The Colosseum, a marquee venue welcoming touring musicians, comedians, and specialty productions. Many guests plan visits around these performances, and the venue\u2019s calendar blends genres to keep the lineup fresh. Away from the stage and the tables, guests fill their time with spa treatments, boutique shopping, and photo\u2011worthy riverfront walks that frame the Detroit skyline. The result is a resort that appeals to gamers and non\u2011gamers alike, delivering a well\u2011rounded urban escape in a single address.<\/p>\n<br>\n<p> Bonuses and loyalty play a central role in the guest journey. Through Caesars Rewards, visitors earn credits across gaming, stays, dining, and shopping, unlocking meaningful perks, status tiers, and exclusive offers over time. Regular casino promotions add momentum to the action, while the broader Caesars network lets members enjoy benefits beyond Windsor. Personalized deals, preferred room pricing, and on\u2011property privileges help frequent guests get more from every visit.<\/p>\n<br>\n<p> For meetings, weddings, and private celebrations, the resort provides flexible venues, professional planning support, and modern production capabilities. From intimate gatherings to large conferences and post\u2011show parties, Caesars Windsor combines the prestige of a marquee address with practical event logistics. Its river-border location and access to major transport routes make it especially convenient for regional and cross\u2011border attendees.<\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nCaesars Windsor Visitor Rules\n<\/h3>\n<p> To enter Caesars Windsor Casino, guests must be 19 years or older and present valid photo ID. There is no entry fee, and the casino operates 24\/7, including holidays.<\/p>\n\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Dress code<\/h4>\n<p>\nThe dress code is smart casual or resort casual, meaning neat, clean, and appropriate attire. Men are encouraged to wear collared shirts, dress pants or clean jeans, and closed-toe shoes. Women may wear dresses, skirts, blouses, and elegant footwear. Prohibited items include sports jerseys, ripped clothing, sweatpants, flip-flops, beachwear, and non-religious headwear.<\/p><p>\nVIP areas, fine dining venues, and the ARIIUS nightclub enforce a stricter dress code: no hoodies, ball caps, construction boots, baggy jeans or jackets. Guests are expected to \u201cdress to impress.\u201d\n        <\/p>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Security<\/h4>\n<p>\n          Security protocols apply at The Colosseum concert venue, including metal detectors and bag checks. Bags must be under 8\u00d711 inches; large backpacks, outside food\/drinks, weapons, and cameras are not allowed. Non-compliance may result in denied entry without refund.\n        <\/p>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nCaesars Rewards Loyalty Program at Caesars Windsor\n<\/h3>\n\n<p> Caesars Rewards is one of the largest and most rewarding casino loyalty programs, offering players bonuses, perks, and exclusive offers for engaging with the resort.<\/p>\n<br>\n<p>\n          Key features of the program:\n        <\/p>\n<ul>\n            <li>\u2022 6 tier levels: Gold, Platinum, Diamond, Diamond Plus, Diamond Elite, and Seven Stars\u00ae. Tier upgrades depend on points earned over a 12-month period.<\/li>\n            <li>\u2022 Entry level \u2014 Gold: available upon registration.<\/li>\n            <li>\u2022 Points are earned through: slot and video poker play, hotel stays, dining, shopping, and attending events.<\/li>\n  <li>\u2022 Rewards include: free hotel nights, dining discounts, show tickets, gifts, cashback, and lounge access.<\/li>\n            <li>\u2022 VIP benefits: priority check-in, free valet parking, birthday dinners, and invitations to exclusive events.\n<\/li>\n            <li>\u2022 Points are valid across all Caesars properties: including Las Vegas, Atlantic City, and more.\n\n<\/li>\n        <\/ul>\n<br>\n<p> To get started, simply visit the Caesars Rewards Center at the casino, register with a valid ID, and use your card every time you play or spend.<\/p>\n<br>\n"
+            }
+        },
+        "softwareProviders": {
+            "title": "Software Providers"
+        },
+        "custom_2": {
+            "customHtml_2": {
+                "title": "Entertainment & Leisure at Caesars Windsor Casino",
+                "description": "<h3 style = \"font-weight: bold;font-size: 32px;\">\nBonuses, Promotions & Entertainment at Caesars Windsor\n<\/h3>\n\n<p> Caesars Windsor offers a wide range of exciting promotions and seasonal events that go beyond the loyalty program, making every visit more rewarding and fun.<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Gaming Bonuses and Promotions<\/h4>\n\n        <ul>\n            <li>\u2022 Drops & Wins \u2014 monthly tournaments with chances to win cash prizes, free spins, and gifts.<\/li>\n            <li>\u2022 Deposit Bonuses \u2014 up to 400% on initial deposits, including free spins and loyalty points.\n<\/li>\n            <li>\u2022 Gift Cards & Bonus Credits \u2014 awarded during weekly and holiday promotions.\n<\/li>\n            <li>\u2022 Cash Draws \u2014 seasonal prize pools, such as up to C$50,000 in cash giveaways. <\/li>\n        <\/ul>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Seasonal Events and Prize Draws<\/h4>\n        <ul>\n            <li>\u2022 Play Ontario Giveaway \u2014 weekly draws featuring lottery tickets, slot bonuses, gift cards, and cash.<\/li>\n            <li>\u2022 Grand Prizes \u2014 chances to win cars (e.g., Dodge Charger) and large cash awards.\n<\/li>\n            <li>\u2022 Holiday Promotions \u2014 themed events and giveaways for Halloween, Christmas, New Year\u2019s, and more.<\/li>\n         \n        <\/ul>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Entertainment and Shows<\/h4>\n\n        <ul>\n            <li>\u2022 The Colosseum \u2014 a 5,000-seat venue hosting concerts, comedy acts, and theatrical performances.\n<\/li>\n            <li>\u2022 Ariius Nightclub \u2014 a stylish space for dancing, cocktails, and DJ sets.\n<\/li>\n            <li>\u2022 Live Music & Theme Nights \u2014 featured in bars and lounges throughout the resort.\n\n<\/li>\n        <\/ul>\n<br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Special Offers in Bars and Restaurants<\/h4>\n\n        <ul>\n            <li>\u2022 Happy Hours \u2014 discounted drinks and snacks during select hours.\n<\/li>\n            <li>\u2022 Signature Cocktails & Tastings \u2014 seasonal menus and wine pairing events.\n<\/li>\n            <li>\u2022 Holiday Dinners \u2014 special menus for Thanksgiving, Christmas, and other festive occasions.\n<\/li>  \n        <\/ul>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nPopular Games at Caesars Windsor\n<\/h3>\n\n<p>Caesars Windsor features over 2,000 slot machines, 85 table games, a dedicated poker room, and a full-service sportsbook, making it one of Canada\u2019s most diverse gaming destinations.<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Slot Machines<\/h4>\n\n        <ul>\n            <li>\u2022 Popular titles include Buffalo Gold, Lightning Link, Cleopatra, Mega Moolah, and Starburst.\n<\/li>\n            <li>\u2022 Classic slots offer retro-style gameplay with fruit symbols and simple mechanics.\n<\/li>\n            <li>\u2022 Video slots feature bonus rounds, free spins, and multipliers.\n<\/li>\n            <li>\u2022 Jackpot slots provide chances to win big through progressive prize pools.\n\n<\/li>\n        <\/ul><br>\n\n\n\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Table Games<\/h4>\n       <ul>\n            <li>\u2022 Blackjack \u2014 including Blazing 7\u2019s Progressive Blackjack.\n<\/li>\n            <li>\u2022 Roulette \u2014 both classic and electronic formats.\n<\/li>\n            <li>\u2022 Craps \u2014 with betting limits up to C$50,000.\n<\/li>\n            <li>\u2022 Baccarat \u2014 including Royal 9 Progressive Baccarat.\n<\/li>\n\t    <li>\u2022 Pai Gow Poker, Caribbean Stud, Let It Ride, Three Card Poker, Four Card Poker \u2014 for poker enthusiasts.\n\n<\/li>\n        <\/ul>\n        <br>\n\n  \n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Poker Room<\/h4>\n        <ul>\n            <li>\u2022 14 tables with live dealers.\n<\/li>\n            <li>\u2022 Weekly tournaments every Friday and Sunday.\n<\/li>\n            <li>\u2022 World Series of Poker satellite events.\n<\/li>\n<li>\u2022 High betting limits \u2014 among the highest in the Detroit\u2013Ontario region.\n\n<\/li>\n        <\/ul>\n        <br>\n\n\n    <\/div>\n<\/div>\n\n   \n<h4 style = \"font-weight: bold; font-size: 24px;\">Sportsbook<\/h4>\n        <ul>\n            <li>\u2022 Caesars Sportsbook \u2014 1,700 sq. ft. with 22 large screens and 24\/7 betting kiosks.\n<\/li>\n            <li>\u2022 Bet on major sports including football, hockey, basketball, tennis, and more.\n\n<\/li>\n         \n        <\/ul>\n        <br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nMinimum and Maximum Bets at Caesars Windsor\n<\/h3>\n\n<p> Caesars Windsor Casino offers flexible betting limits suitable for both casual players and high rollers. Limits may vary depending on time of day and crowd levels, especially on weekends and during special events.<\/p>\n\n<br>\n\n<table style=\"width:100%; border-collapse:collapse; margin-top:16px;\">\n            <thead>\n                <tr style=\"background:#828080; color:#fff;\">\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:left;\">Game Type<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Minimum Bet<\/th>\n                    <th style=\"border:2px solid #ccc; padding:8px; text-align:center;\">Maximum Bet<\/th>\n                <\/tr>\n            <\/thead>\n            <tbody>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Slot Machines<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$0.01<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Up to C$100<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Video Poker<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$0.25<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Up to C$50<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Blackjack<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$5\u2013C$25<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Up to C$25,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Roulette<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$2\u2013C$15<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Up to C$50,000<\/td>\n                <\/tr>\n                <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Craps<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$15\u2013C$25<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Up to C$50,000<\/td>\n                <\/tr>\n  <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Baccarat<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$15<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Up to C$15,000<\/td>\n                <\/tr>\n  <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Pai Gow Poker<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$15<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Up to C$15,000<\/td>\n                <\/tr>\n  <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Poker (cash games)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$3\u2013C$6 (limit)<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Up to C$500 (no-limit)<\/td>\n                <\/tr>\n  <tr>\n                    <td style=\"border:1px solid #ccc; padding:8px;\">Sports Betting<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">C$2<\/td>\n                    <td style=\"border:1px solid #ccc; padding:8px; text-align:center;\">Depends on event\n\n<\/td>\n                <\/tr>\n            <\/tbody>\n        <\/table>\n<br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nEvents and Entertainment at Caesars Windsor\n<\/h3>\n\n<p> Caesars Windsor is more than a casino \u2014 it\u2019s a premier entertainment destination in Ontario. The centerpiece is The Colosseum, a 5,000-seat theatre hosting concerts, comedy shows, touring productions, and seasonal spectacles.<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Special Events and Shows<\/h4>\n\n        <ul>\n            <li>\u2022 Live concerts by top artists: performances by Sarah McLachlan, Bryan Adams, Il Divo, Our Lady Peace, Shawn Desman, The Tenors, Matthew Good, Finger Eleven, The Tea Party, Kasador, and more. <\/li>\n            <li>\u2022 Comedy acts: regular shows by famous comedians like Jo Koy, Sebastian Maniscalco, Andrew Santino, Russell Peters, Gerry Dee, and Hannah Berner.<\/li>\n            <li>\u2022 Seasonal productions: such as Holiday Dreams, a holiday-themed circus show with acrobatics and visual effects.<\/li>\n            <li>\u2022 Tribute performances: Voyage (Journey tribute), The Man In Black (Johnny Cash tribute).\n<\/li>\n\t    <li>\u2022 Themed nights: Wheel of Fortune Live, holiday parties, and DJ sets at Ariius nightclub.\n\n<\/li>\n        <\/ul><br>\n<h4 style = \"font-weight: bold; font-size: 24px;\">Ariius Nightclub<\/h4>\n        <p>\n        Ariius Nightclub, located inside Caesars Windsor, is one of Canada\u2019s most upscale and expansive nightlife venues. It offers a Las Vegas\u2013style experience with high-end design, elite service, and unforgettable entertainment.\n        <\/p>\n        <br>\n<p>\n           Spanning over 10,000 square feet, the club features 3 bars, 30 private VIP areas, a LED ceiling over the dance floor, a 16-foot LED screen behind the DJ booth, and a 100,000-watt sound system. The interior is lavishly designed with high ceilings, plush furnishings, a women\u2019s lounge, and powder room, creating a glamorous and comfortable setting.\n        <\/p>\n        <br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Additional Entertainment<\/h4>\n        <ul>\n            <li>\u2022 Live music in bars \u2014 themed evenings, local bands, and lounge performances.<\/li>\n            <li>\u2022 Holiday events \u2014 Halloween, Christmas, and New Year\u2019s celebrations with shows, giveaways, and special dining menus.<\/li>\n            \n        <\/ul><br>\n<h3 style = \"font-weight: bold;font-size: 32px;\">\nRelaxation, Bars & Dining at Caesars Windsor\n<\/h3>\n\n<p> Caesars Windsor is more than a casino \u2014 it\u2019s a full-service resort offering gaming, fine dining, luxury accommodations, and vibrant nightlife. The hotel features 758 rooms across two towers \u2014 Forum Tower (adults only) and Augustus Tower (family-friendly). Rooms include HDTVs, coffee makers, safes, refrigerators, and views of the Detroit River or Windsor skyline.<\/p>\n<br>\n\n<h4 style = \"font-weight: bold; font-size: 24px;\">Hotel & Relaxation<\/h4>\n        <ul>\n            <li>\u2022 Indoor Pool & Whirlpool \u2014 year-round swimming with river views.\n<\/li>\n            <li>\u2022 Fitness Center & Sauna \u2014 modern equipment and wellness space.\n<\/li>\n            <li>\u2022 Spa Services \u2014 massages, facials, manicures, pedicures, waxing. [wyndhamhotels.com]<\/li>\n            <li>\u2022 Shopping \u2014 Caesars Essentials gift shop and Landau Boutique.\n<\/li>\n\t    <li>\u2022 Business Center & Meeting Rooms \u2014 ideal for conferences and weddings.\n\n<\/li>\n        <\/ul><br>\n<div\n lang=\"en\"\n     style=\"\n       -webkit-columns: 320px 2;\n       -moz-columns: 320px 2;\n       columns: 320px 2;\n\n        -webkit-column-gap: 1.2em;\n       -moz-column-gap: 1.2em;\n       column-gap: 1.2em;\n \n       hyphens: auto;\n\">\n\n\n   <!-- \u041b\u0435\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Restaurants<\/h4>\n        <ul>\n            <li>\u2022 Neros Steakhouse \u2014 upscale steaks, wine, and elegant ambiance.<\/li>\n            <li>\u2022 Spago Italian Eatery \u2014 pasta, pizza, and Italian desserts.\n<\/li>\n            <li>\u2022 Legends Sports Bar \u2014 live sports, snacks, and beer.\n<\/li>\n  <li>\u2022 Caf\u00e9 377 \u2014 light meals and coffee.\n<\/li>\n            <li>\u2022 Johnny Rockets \u2014 classic American burgers and milkshakes.\n<\/li>\n            <li>\u2022 Tim Hortons \u2014 quick Canadian coffee and snacks. <\/li>\n        <\/ul>\n        <br>\n\n \n    <\/div>\n\n    <!-- \u041f\u0440\u0430\u0432\u0430\u044f \u043a\u043e\u043b\u043e\u043d\u043a\u0430 -->\n    <div style=\"break-inside: avoid; -webkit-column-break-inside: avoid; -moz-column-break-inside: avoid;\">\n        <h4 style = \"font-weight: bold; font-size: 24px;\">Bars & Nightlife<\/h4>\n        <ul>\n            <li>\u2022 Ariius Nightclub \u2014 Vegas-style club with DJs and cocktails.\n<\/li>\n            <li>\u2022 Bacchus Bar \u2014 cozy bar with tabletop games and drinks.\n<\/li>\n            <li>\u2022 Cosmos Lounge \u2014 live music on weekends and lounge vibes.\n<\/li>\n  <li>\u2022 The House Sports Lounge \u2014 sports on big screens and draft beer.\n<\/li>\n            <li>\u2022 VU Bar \u2014 stunning Detroit skyline views and cocktails. <\/li>\n         \n        <\/ul>\n        <br>\n\n  \n    <\/div>\n<\/div>\n<br>\n\n\n"
+            }
+        },
+        "faq": {
+            "title": "Frequently Asked Questions",
+            "items": [
+                {
+                    "title": "How do I register at Caesars Windsor?",
+                    "answer": "Visit the Caesars Rewards desk with valid photo ID to sign up.\n\n\n"
+                },
+                {
+                    "title": "What payment methods are accepted?",
+                    "answer": "Cash, credit\/debit cards, and Caesars Rewards credits.\n\n\n"
+                },
+                {
+                    "title": "What language is used at the casino?",
+                    "answer": "English is primary. Staff may assist in French and other languages.\n\n\n"
+                },
+                {
+                    "title": "Are drinks free while playing?",
+                    "answer": "Yes, complimentary non-alcoholic drinks are available to players.\n\n\n"
+                },
+                {
+                    "title": "Can I pay for my stay with reward points?",
+                    "answer": "Yes, Reward Credits can be used for rooms and services.\n\n\n"
+                }
+            ]
+        },
+        "footer": {
+            "logo": "https:\/\/backend.builder.adkey.org:443\/api\/images\/download\/272",
+            "imageSizeModifier": 0,
+            "imageYModifier": 0,
+            "imageXModifier": 0,
+            "copyright": "Caesars Windsor"
+        }
+    },
+    "langs": [
+        {
+            "code": "en-CA",
+            "name": "\u0410\u043d\u0433\u043b\u0438\u0439\u0441\u043a\u0438\u0439",
+            "isDefault": true
+        }
+    ]
+}

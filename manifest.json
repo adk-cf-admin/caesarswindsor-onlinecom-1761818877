@@ -1,0 +1,19 @@
+{
+  "name": "Caesars Windsor",
+  "short_name": "Caesars Windsor",
+  "theme_color": "",
+  "background_color": "#161A21",
+  "display": "standalone",
+  "orientation": "portrait",
+  "scope": "/",
+  "start_url": "/",
+  "icons": [
+    {
+      "src": "_assets/images/1761754127-caesars.webp",
+      "sizes": "144x144",
+      "type": "image/png",
+      "purpose": "maskable any"
+    }
+  ],
+  "splash_pages": null
+}
